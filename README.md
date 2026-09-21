@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0141-linked-list-cycle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tanishikpremi/DSA-with-Java-Leetcode-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
